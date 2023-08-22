@@ -1,0 +1,5 @@
+this lib is used to interact with mongodb 
+pip install pymongo
+
+this lib is used to generate thousand of csv fake data 
+pip install faker
