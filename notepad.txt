@@ -1,5 +1,10 @@
-this lib is used to interact with mongodb 
+this lib is used to generate thousand of csv fake data (username,email,password) 
+pip install faker
+
+this lib is used to interact with mongodb using python code 
 pip install pymongo
 
-this lib is used to generate thousand of csv fake data 
-pip install faker
+Todo 
+1> generate fake csv data first write a python code for it and store in (data.csv) file
+2> upload this data to mongodb database name (UserData) to (users) collection one by one  
+3> this is the task that it 
